@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 
+/* comment for special waffle */
+
 /* Stub out timer functions when on Mac OS */
 #ifdef __APPLE_CC__
    void start_timing(void) {}
